@@ -1,0 +1,14 @@
+todo
+*.o
+*.out
+
+tasks.txt
+.todo-tasks.txt
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+*.swp
+*.swo
+*~
